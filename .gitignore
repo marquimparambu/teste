@@ -1,2 +1,6 @@
-IGNORAR TODOS OD ARQUIVOS .pas
+# IGNORAR TODOS OD ARQUIVOS .pas
 *.pas
+
+
+# IGNORAR TODOS .sql
+*.sql
